@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/cipheredbytes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://omartrigui.github.io
+  * I am cipheredbytes (https://keybase.io/cipheredbytes) on keybase.
+  * I have a public key ASD_s09_0seqWE47OtZ8j-JA-P1fy3Gf_e0iCYPdOpVjVgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010191f900cfbd04e30c1f9a646114ffe2f0bb798ce9f248a237d4dda44b3d3b6f5c0a",
+      "host": "keybase.io",
+      "kid": "0120ffb34f7fd2c7aa584e3b3ad67c8fe240f8fd5fcb719ffded220983dd3a9563560a",
+      "uid": "db5a6d59d5486de1c8db691923a79e19",
+      "username": "cipheredbytes"
+    },
+    "merkle_root": {
+      "ctime": 1511701161,
+      "hash": "5d1382053582e75fb714fa604b3e97a1fb31e00ed04eb9be4b7d13142829b55d4eeba5dcc2bc82bf7a31a0fda6ee07a4389a5fff0f04bb7335bdc2bac2bdb9f2",
+      "hash_meta": "b61ad460c2d7075d8805c2ef10a0d1bedf55c0a13900271682de42515fabcff3",
+      "seqno": 1750050
+    },
+    "service": {
+      "hostname": "omartrigui.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.36"
+  },
+  "ctime": 1511701375,
+  "expire_in": 504576000,
+  "prev": "133d8905c9837064c47148aa444058bc172df08fa891231648a91221b40ff248",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/7NPf9LHqlhOOzrWfI/iQPj9X8txn/3tIgmD3TqVY1YKp3BheWxvYWTFA1J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxOTFmOTAwY2ZiZDA0ZTMwYzFmOWE2NDYxMTRmZmUyZjBiYjc5OGNlOWYyNDhhMjM3ZDRkZGE0NGIzZDNiNmY1YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZmZiMzRmN2ZkMmM3YWE1ODRlM2IzYWQ2N2M4ZmUyNDBmOGZkNWZjYjcxOWZmZGVkMjIwOTgzZGQzYTk1NjM1NjBhIiwidWlkIjoiZGI1YTZkNTlkNTQ4NmRlMWM4ZGI2OTE5MjNhNzllMTkiLCJ1c2VybmFtZSI6ImNpcGhlcmVkYnl0ZXMifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTE3MDExNjEsImhhc2giOiI1ZDEzODIwNTM1ODJlNzVmYjcxNGZhNjA0YjNlOTdhMWZiMzFlMDBlZDA0ZWI5YmU0YjdkMTMxNDI4MjliNTVkNGVlYmE1ZGNjMmJjODJiZjdhMzFhMGZkYTZlZTA3YTQzODlhNWZmZjBmMDRiYjczMzViZGMyYmFjMmJkYjlmMiIsImhhc2hfbWV0YSI6ImI2MWFkNDYwYzJkNzA3NWQ4ODA1YzJlZjEwYTBkMWJlZGY1NWMwYTEzOTAwMjcxNjgyZGU0MjUxNWZhYmNmZjMiLCJzZXFubyI6MTc1MDA1MH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJvbWFydHJpZ3VpLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM2In0sImN0aW1lIjoxNTExNzAxMzc1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjEzM2Q4OTA1Yzk4MzcwNjRjNDcxNDhhYTQ0NDA1OGJjMTcyZGYwOGZhODkxMjMxNjQ4YTkxMjIxYjQwZmYyNDgiLCJzZXFubyI6MzQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAKprr+Dhf4XFQse/cn/I0vz0HbNWWFVdNr+8R6oLUT9rtokXKq47sz0+wL9925Kbc4WE2Ya3h2m+FIIMQN24OBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGqSAxbnNursZKDDY4h/F7TNFbjzmz9wvBm/LbvuA51Ro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cipheredbytes
+
+==================================================================
